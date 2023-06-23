@@ -1,3 +1,6 @@
+spring:
+  application:
+          name: CLOUD-SERVER
 eureka:
     instance:
       prefer-ip-address: true
